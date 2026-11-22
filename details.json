@@ -1,23 +1,23 @@
 {
   "schema_version": 1,
-  "launcher_version": "1.0.68",
+  "launcher_version": "1.0.69",
   "games": [
     {
       "id": "launcher-update",
       "name": "Launcher update",
-      "version": "1.0.68",
+      "version": "1.0.69",
       "type": "minecraft_java_edition",
       "whitelist": []
     }
   ],
   "launcher_update": {
-    "url": "https://raw.githubusercontent.com/lumoung-mc/launcher-releases/55462c2b3261d83b534d20f7f1e70ccd82dee289/launcher/windows/MacaroonLauncher-1.0.68-Setup.exe",
-    "sha256": "e8e335356f8dcae5fa211dae301469f2176f08a50d89c395d7bb9e199c9343de",
-    "size": 50488986
+    "url": "https://raw.githubusercontent.com/lumoung-mc/launcher-releases/cc70bea3931d9161b6e9544d1f647acccaffed2f/launcher/windows/MacaroonLauncher-1.0.69-Setup.exe",
+    "sha256": "b3a9e509bb5e18effbf23c1fe41f3400dd5d5b48cb19630d08af62f6bf21374f",
+    "size": 50489173
   },
   "launcher_update_v2": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/55462c2b3261d83b534d20f7f1e70ccd82dee289/launcher/windows/MacaroonLauncher-1.0.68-Setup.exe",
-    "sha256": "e8e335356f8dcae5fa211dae301469f2176f08a50d89c395d7bb9e199c9343de",
-    "size": 50488986
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/cc70bea3931d9161b6e9544d1f647acccaffed2f/launcher/windows/MacaroonLauncher-1.0.69-Setup.exe",
+    "sha256": "b3a9e509bb5e18effbf23c1fe41f3400dd5d5b48cb19630d08af62f6bf21374f",
+    "size": 50489173
   }
 }
