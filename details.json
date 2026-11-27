@@ -1,42 +1,42 @@
 {
   "schema_version": 1,
-  "launcher_version": "2.0.8",
+  "launcher_version": "2.0.9",
   "games": [
     {
       "id": "launcher-update",
       "name": "Launcher update",
-      "version": "2.0.8",
+      "version": "2.0.9",
       "type": "minecraft_java_edition",
       "whitelist": []
     }
   ],
   "launcher_update": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/ff67fcfb93e393b4c5d268d9bc4a7a50d36e8ad6/launcher/windows/MacaroonLauncher-2.0.8-Setup.exe",
-    "sha256": "70168eca929024e6e86e92a26caa8a1a0fbdfd7bb0833f057782a9875b90a8f4",
-    "size": 27473674
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/54c05674262673d15e4587654fdfc2fd8f103ebe/launcher/windows/MacaroonLauncher-2.0.9-Setup.exe",
+    "sha256": "a435f052e224b24d7c99fc2c81021d8c4a5961b99cf2c267b0804136f110f347",
+    "size": 28183162
   },
   "launcher_update_v2": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/ff67fcfb93e393b4c5d268d9bc4a7a50d36e8ad6/launcher/windows/MacaroonLauncher-2.0.8-Setup.exe",
-    "sha256": "70168eca929024e6e86e92a26caa8a1a0fbdfd7bb0833f057782a9875b90a8f4",
-    "size": 27473674
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/54c05674262673d15e4587654fdfc2fd8f103ebe/launcher/windows/MacaroonLauncher-2.0.9-Setup.exe",
+    "sha256": "a435f052e224b24d7c99fc2c81021d8c4a5961b99cf2c267b0804136f110f347",
+    "size": 28183162
   },
   "launcher_update_linux": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/ff67fcfb93e393b4c5d268d9bc4a7a50d36e8ad6/launcher/linux/MacaroonLauncher-2.0.8-linux-x64.tar.gz",
-    "sha256": "cbfe871ef9a5a502ec1c18407b5828931df650bcce722d4e7ec8f753a477cf59",
-    "size": 25486856
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/54c05674262673d15e4587654fdfc2fd8f103ebe/launcher/linux/MacaroonLauncher-2.0.9-linux-x64.tar.gz",
+    "sha256": "e4d37144acbc8402a892feb2a4815bdc418541d05b8a392b7ae0535898fd3694",
+    "size": 26283109
   },
   "launcher_notes": [
+    "게임 화면을 아래로 스크롤하면 게임 커뮤니티가 열려요.",
+    "커뮤니티에서 여러 블록으로 글을 쓰고, 댓글과 좋아요를 남길 수 있어요.",
+    "쓰던 글은 임시 저장돼서 나중에 이어 쓸 수 있어요.",
+    "공지사항·패치노트가 커뮤니티 게시판으로 바뀌었어요.",
+    "게임 일정 카드와 일정 창을 새로 다듬었어요.",
+    "런처를 켜고 처음 연 게임에서 소식과 배경 영상이 안 보이던 문제를 고쳤어요.",
+    "채팅 창이 화면 아래로 넘치던 문제를 고쳤어요.",
     "새로 배포된 공지·패치노트와 게임 정보를 바로 보여 줘요.",
-    "런처를 처음 열 때 공지·패치노트가 안 보이던 문제를 고쳤어요.",
-    "공지와 패치노트를 오갈 때 높이가 부드럽게 바뀌어요.",
     "채팅·플레이어 창을 펼치고 접을 때 내용이 창과 함께 부드럽게 움직여요.",
-    "공지와 패치노트를 글마다 미리보기로 보여 줘요.",
     "게임 카드 로고를 웹사이트와 같은 크기로 보여 줘요.",
     "서버 자동 접속은 기본으로 꺼져 있어요.",
-    "작업 표시줄 아이콘에 알림 개수와 설치·업데이트 진행률을 보여 줘요.",
-    "게임 정보에서 스트리머 항목을 뺐어요.",
-    "탐색·라이브러리 버튼에 마우스를 올리면 깜박이던 문제를 고쳤어요.",
-    "로그인하지 않았을 때 볼 수 없는 게임이 보이던 문제를 고쳤어요.",
-    "제작진을 주최자부터 역할 순서대로 보여 줘요."
+    "작업 표시줄 아이콘에 알림 개수와 설치·업데이트 진행률을 보여 줘요."
   ]
 }
