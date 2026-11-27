@@ -1,23 +1,33 @@
 {
   "schema_version": 1,
-  "launcher_version": "2.0.0",
+  "launcher_version": "2.0.1",
   "games": [
     {
       "id": "launcher-update",
       "name": "Launcher update",
-      "version": "2.0.0",
+      "version": "2.0.1",
       "type": "minecraft_java_edition",
       "whitelist": []
     }
   ],
   "launcher_update": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/53dd26a4dfeddebf30f038abb83a30bdc4854b19/launcher/windows/MacaroonLauncher-2.0.0-Setup.exe",
-    "sha256": "df9cf9e54fa1328356414f0a4f3bc8dfefc7bdac8f5c2ae9c00aa99e118f4d10",
-    "size": 27439678
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/5d6a68cdd328a0cd8e63b6aebc53f110641cd283/launcher/windows/MacaroonLauncher-2.0.1-Setup.exe",
+    "sha256": "2c06ca92a3ab3ae461e1e2a10742772a417c4cb2aae2d0e7ef6296736e2d6c34",
+    "size": 27451274
   },
   "launcher_update_v2": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/53dd26a4dfeddebf30f038abb83a30bdc4854b19/launcher/windows/MacaroonLauncher-2.0.0-Setup.exe",
-    "sha256": "df9cf9e54fa1328356414f0a4f3bc8dfefc7bdac8f5c2ae9c00aa99e118f4d10",
-    "size": 27439678
-  }
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/5d6a68cdd328a0cd8e63b6aebc53f110641cd283/launcher/windows/MacaroonLauncher-2.0.1-Setup.exe",
+    "sha256": "2c06ca92a3ab3ae461e1e2a10742772a417c4cb2aae2d0e7ef6296736e2d6c34",
+    "size": 27451274
+  },
+  "launcher_update_linux": {
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/5d6a68cdd328a0cd8e63b6aebc53f110641cd283/launcher/linux/MacaroonLauncher-2.0.1-linux-x64.tar.gz",
+    "sha256": "e3d38defe2a3f98192004b0d7abc97acce5c0dfcfd11a4602da33b3885dc8522",
+    "size": 25476013
+  },
+  "launcher_notes": [
+    "로그인하지 않았을 때 볼 수 없는 게임이 보이던 문제를 고쳤어요.",
+    "제작진을 주최자부터 역할 순서대로 보여 줘요.",
+    "Linux에서도 새 런처를 쓸 수 있어요."
+  ]
 }
