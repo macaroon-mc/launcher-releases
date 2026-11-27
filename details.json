@@ -1,31 +1,32 @@
 {
   "schema_version": 1,
-  "launcher_version": "2.0.2",
+  "launcher_version": "2.0.3",
   "games": [
     {
       "id": "launcher-update",
       "name": "Launcher update",
-      "version": "2.0.2",
+      "version": "2.0.3",
       "type": "minecraft_java_edition",
       "whitelist": []
     }
   ],
   "launcher_update": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/e6514012a92d87da6609fffe1e22b3533c47ab9e/launcher/windows/MacaroonLauncher-2.0.2-Setup.exe",
-    "sha256": "4393b0c85c1594a4ef54f0513fe0c14695ded097dbb34d6ece556d56df98dc84",
-    "size": 27451293
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/11d91088d754466703d1f179235dbd0bb8a57e3b/launcher/windows/MacaroonLauncher-2.0.3-Setup.exe",
+    "sha256": "e47a228555e9c1943c0872e5b3405a3b64e46a6bb64d9ea8683ca18460b23bab",
+    "size": 27451301
   },
   "launcher_update_v2": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/e6514012a92d87da6609fffe1e22b3533c47ab9e/launcher/windows/MacaroonLauncher-2.0.2-Setup.exe",
-    "sha256": "4393b0c85c1594a4ef54f0513fe0c14695ded097dbb34d6ece556d56df98dc84",
-    "size": 27451293
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/11d91088d754466703d1f179235dbd0bb8a57e3b/launcher/windows/MacaroonLauncher-2.0.3-Setup.exe",
+    "sha256": "e47a228555e9c1943c0872e5b3405a3b64e46a6bb64d9ea8683ca18460b23bab",
+    "size": 27451301
   },
   "launcher_update_linux": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/e6514012a92d87da6609fffe1e22b3533c47ab9e/launcher/linux/MacaroonLauncher-2.0.2-linux-x64.tar.gz",
-    "sha256": "2ca091eb3b5e8a42e7e7050f1fa61c33362ae24f128ef8a199bbbb7fd969b464",
-    "size": 25487695
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/11d91088d754466703d1f179235dbd0bb8a57e3b/launcher/linux/MacaroonLauncher-2.0.3-linux-x64.tar.gz",
+    "sha256": "d378bd5b208e9df0e6aa4dda89e7ac70968c51d9164b83e2883ef4bdd4a69133",
+    "size": 25487439
   },
   "launcher_notes": [
+    "게임 정보에서 스트리머 항목을 뺐어요.",
     "탐색·라이브러리 버튼에 마우스를 올리면 깜박이던 문제를 고쳤어요.",
     "로그인하지 않았을 때 볼 수 없는 게임이 보이던 문제를 고쳤어요.",
     "제작진을 주최자부터 역할 순서대로 보여 줘요.",
