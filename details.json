@@ -1,31 +1,32 @@
 {
   "schema_version": 1,
-  "launcher_version": "2.0.6",
+  "launcher_version": "2.0.7",
   "games": [
     {
       "id": "launcher-update",
       "name": "Launcher update",
-      "version": "2.0.6",
+      "version": "2.0.7",
       "type": "minecraft_java_edition",
       "whitelist": []
     }
   ],
   "launcher_update": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/7e21ef616bed963723a17bc25bd04632c8e5d91d/launcher/windows/MacaroonLauncher-2.0.6-Setup.exe",
-    "sha256": "ccb5cab1ad60f4799f7a8540a0aa3b2cde3b53669e7b6221186c5932ee2c8da1",
-    "size": 27472521
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/0e71d1b94fa3bc31507af195a881b9e7578d855d/launcher/windows/MacaroonLauncher-2.0.7-Setup.exe",
+    "sha256": "fb762a15be9e9ed50d8aeed52ecacfa802fd46233f43acf250f736464cfda100",
+    "size": 27472297
   },
   "launcher_update_v2": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/7e21ef616bed963723a17bc25bd04632c8e5d91d/launcher/windows/MacaroonLauncher-2.0.6-Setup.exe",
-    "sha256": "ccb5cab1ad60f4799f7a8540a0aa3b2cde3b53669e7b6221186c5932ee2c8da1",
-    "size": 27472521
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/0e71d1b94fa3bc31507af195a881b9e7578d855d/launcher/windows/MacaroonLauncher-2.0.7-Setup.exe",
+    "sha256": "fb762a15be9e9ed50d8aeed52ecacfa802fd46233f43acf250f736464cfda100",
+    "size": 27472297
   },
   "launcher_update_linux": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/7e21ef616bed963723a17bc25bd04632c8e5d91d/launcher/linux/MacaroonLauncher-2.0.6-linux-x64.tar.gz",
-    "sha256": "3c0cec98b370064fb32b1931a486ca86b3fe10bd76edff2c5bc2b19c8f00a4f2",
-    "size": 25488044
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/0e71d1b94fa3bc31507af195a881b9e7578d855d/launcher/linux/MacaroonLauncher-2.0.7-linux-x64.tar.gz",
+    "sha256": "febd9bba5d1f906c87d9a170a560ba8bf96276fb247e57dc1fa403b978910f24",
+    "size": 25494134
   },
   "launcher_notes": [
+    "채팅·플레이어 창을 펼치고 접을 때 내용이 창과 함께 부드럽게 움직여요.",
     "공지와 패치노트를 글마다 미리보기로 보여 줘요.",
     "게임 카드 로고를 웹사이트와 같은 크기로 보여 줘요.",
     "서버 자동 접속은 기본으로 꺼져 있어요.",
