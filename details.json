@@ -1,31 +1,32 @@
 {
   "schema_version": 1,
-  "launcher_version": "2.0.10",
+  "launcher_version": "2.0.11",
   "games": [
     {
       "id": "launcher-update",
       "name": "Launcher update",
-      "version": "2.0.10",
+      "version": "2.0.11",
       "type": "minecraft_java_edition",
       "whitelist": []
     }
   ],
   "launcher_update": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/cf44cc7c66c1504cfe1f1e45cefa893cbbc3539c/launcher/windows/MacaroonLauncher-2.0.10-Setup.exe",
-    "sha256": "d10a8f966b9d61b3b6d0a99ab65773b028ec4ae93c7180dc9902c85c48f3b04f",
-    "size": 27704567
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/ecdb10792e07e51088caba8f1211db953407dd01/launcher/windows/MacaroonLauncher-2.0.11-Setup.exe",
+    "sha256": "3659c6958faf65b2eff318d99ef00e8b87c2492b1f25b3ad53e22bdc0a3ebd38",
+    "size": 27704540
   },
   "launcher_update_v2": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/cf44cc7c66c1504cfe1f1e45cefa893cbbc3539c/launcher/windows/MacaroonLauncher-2.0.10-Setup.exe",
-    "sha256": "d10a8f966b9d61b3b6d0a99ab65773b028ec4ae93c7180dc9902c85c48f3b04f",
-    "size": 27704567
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/ecdb10792e07e51088caba8f1211db953407dd01/launcher/windows/MacaroonLauncher-2.0.11-Setup.exe",
+    "sha256": "3659c6958faf65b2eff318d99ef00e8b87c2492b1f25b3ad53e22bdc0a3ebd38",
+    "size": 27704540
   },
   "launcher_update_linux": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/cf44cc7c66c1504cfe1f1e45cefa893cbbc3539c/launcher/linux/MacaroonLauncher-2.0.10-linux-x64.tar.gz",
-    "sha256": "0dc9c62070ffd68a92e96eb1d8613b955b90dd36dec4fbe8a4aafbfd85bfea21",
-    "size": 26061212
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/ecdb10792e07e51088caba8f1211db953407dd01/launcher/linux/MacaroonLauncher-2.0.11-linux-x64.tar.gz",
+    "sha256": "25d9568da479804ff6fee9f82d2c75fa2dca743bac2a1d23db6c75c4d3ac17c8",
+    "size": 26058544
   },
   "launcher_notes": [
+    "게임 오류 안내 카드가 내용만큼만 커져요.",
     "런처 아이콘을 새 Macaroon 로고로 바꿨어요.",
     "업데이트한 뒤 작업 표시줄과 바로가기에도 새 아이콘이 바로 보여요."
   ]
