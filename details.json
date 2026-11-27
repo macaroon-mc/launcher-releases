@@ -1,31 +1,32 @@
 {
   "schema_version": 1,
-  "launcher_version": "2.0.3",
+  "launcher_version": "2.0.4",
   "games": [
     {
       "id": "launcher-update",
       "name": "Launcher update",
-      "version": "2.0.3",
+      "version": "2.0.4",
       "type": "minecraft_java_edition",
       "whitelist": []
     }
   ],
   "launcher_update": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/11d91088d754466703d1f179235dbd0bb8a57e3b/launcher/windows/MacaroonLauncher-2.0.3-Setup.exe",
-    "sha256": "e47a228555e9c1943c0872e5b3405a3b64e46a6bb64d9ea8683ca18460b23bab",
-    "size": 27451301
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/9a5a7b630bc54275f6f4b6fbd9d98c677a38001f/launcher/windows/MacaroonLauncher-2.0.4-Setup.exe",
+    "sha256": "671d7046c77117f0154247db0f9f5c3aaa2f295ed9e98ff31c7d9c853bf81d54",
+    "size": 27467176
   },
   "launcher_update_v2": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/11d91088d754466703d1f179235dbd0bb8a57e3b/launcher/windows/MacaroonLauncher-2.0.3-Setup.exe",
-    "sha256": "e47a228555e9c1943c0872e5b3405a3b64e46a6bb64d9ea8683ca18460b23bab",
-    "size": 27451301
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/9a5a7b630bc54275f6f4b6fbd9d98c677a38001f/launcher/windows/MacaroonLauncher-2.0.4-Setup.exe",
+    "sha256": "671d7046c77117f0154247db0f9f5c3aaa2f295ed9e98ff31c7d9c853bf81d54",
+    "size": 27467176
   },
   "launcher_update_linux": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/11d91088d754466703d1f179235dbd0bb8a57e3b/launcher/linux/MacaroonLauncher-2.0.3-linux-x64.tar.gz",
-    "sha256": "d378bd5b208e9df0e6aa4dda89e7ac70968c51d9164b83e2883ef4bdd4a69133",
-    "size": 25487439
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/9a5a7b630bc54275f6f4b6fbd9d98c677a38001f/launcher/linux/MacaroonLauncher-2.0.4-linux-x64.tar.gz",
+    "sha256": "21512bd9998fc61cd29d3433db98d812e2920ca4ff15ac61cfe21d24631afb0a",
+    "size": 25492293
   },
   "launcher_notes": [
+    "작업 표시줄 아이콘에 알림 개수와 설치·업데이트 진행률을 보여 줘요.",
     "게임 정보에서 스트리머 항목을 뺐어요.",
     "탐색·라이브러리 버튼에 마우스를 올리면 깜박이던 문제를 고쳤어요.",
     "로그인하지 않았을 때 볼 수 없는 게임이 보이던 문제를 고쳤어요.",
