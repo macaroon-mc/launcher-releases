@@ -1,31 +1,32 @@
 {
   "schema_version": 1,
-  "launcher_version": "2.0.5",
+  "launcher_version": "2.0.6",
   "games": [
     {
       "id": "launcher-update",
       "name": "Launcher update",
-      "version": "2.0.5",
+      "version": "2.0.6",
       "type": "minecraft_java_edition",
       "whitelist": []
     }
   ],
   "launcher_update": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/24a3c62154bfc2e9a8ce7feccdde2e5fa85e44d8/launcher/windows/MacaroonLauncher-2.0.5-Setup.exe",
-    "sha256": "cdba949c44c3fe4e151be4037bd0076b925a2db014ddb7bbf8190b7da923bba5",
-    "size": 27472340
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/7e21ef616bed963723a17bc25bd04632c8e5d91d/launcher/windows/MacaroonLauncher-2.0.6-Setup.exe",
+    "sha256": "ccb5cab1ad60f4799f7a8540a0aa3b2cde3b53669e7b6221186c5932ee2c8da1",
+    "size": 27472521
   },
   "launcher_update_v2": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/24a3c62154bfc2e9a8ce7feccdde2e5fa85e44d8/launcher/windows/MacaroonLauncher-2.0.5-Setup.exe",
-    "sha256": "cdba949c44c3fe4e151be4037bd0076b925a2db014ddb7bbf8190b7da923bba5",
-    "size": 27472340
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/7e21ef616bed963723a17bc25bd04632c8e5d91d/launcher/windows/MacaroonLauncher-2.0.6-Setup.exe",
+    "sha256": "ccb5cab1ad60f4799f7a8540a0aa3b2cde3b53669e7b6221186c5932ee2c8da1",
+    "size": 27472521
   },
   "launcher_update_linux": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/24a3c62154bfc2e9a8ce7feccdde2e5fa85e44d8/launcher/linux/MacaroonLauncher-2.0.5-linux-x64.tar.gz",
-    "sha256": "0019be41738b3f6c28dbbe4db14c22ed2ffdd80fd188258c187bfe2f31cce965",
-    "size": 25494191
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/7e21ef616bed963723a17bc25bd04632c8e5d91d/launcher/linux/MacaroonLauncher-2.0.6-linux-x64.tar.gz",
+    "sha256": "3c0cec98b370064fb32b1931a486ca86b3fe10bd76edff2c5bc2b19c8f00a4f2",
+    "size": 25488044
   },
   "launcher_notes": [
+    "공지와 패치노트를 글마다 미리보기로 보여 줘요.",
     "게임 카드 로고를 웹사이트와 같은 크기로 보여 줘요.",
     "서버 자동 접속은 기본으로 꺼져 있어요.",
     "작업 표시줄 아이콘에 알림 개수와 설치·업데이트 진행률을 보여 줘요.",
