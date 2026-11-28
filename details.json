@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
-  "launcher_version": "2.0.14",
+  "launcher_version": "2.0.15",
   "games": [
     {
       "id": "launcher-update",
       "name": "Launcher update",
-      "version": "2.0.14",
+      "version": "2.0.15",
       "type": "minecraft_java_edition",
       "whitelist": []
     }
   ],
   "launcher_update": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/dc974ef01363a33c50327e3ea8dce34d4e455b3b/launcher/windows/MacaroonLauncher-2.0.14-Setup.exe",
-    "sha256": "79bad9dfb7ec61680f324b0ee28c6b0cbb9ed78af22caf4938fefabc0976d7ca",
-    "size": 27716010
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/958fb7b17659835b35021185bcdea57e48d3d8d8/launcher/windows/MacaroonLauncher-2.0.15-Setup.exe",
+    "sha256": "a31b691289f47539971f0b7f0ec4f8ee71ee58dcacaa257fcc5ea4e09c246533",
+    "size": 27716866
   },
   "launcher_update_v2": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/dc974ef01363a33c50327e3ea8dce34d4e455b3b/launcher/windows/MacaroonLauncher-2.0.14-Setup.exe",
-    "sha256": "79bad9dfb7ec61680f324b0ee28c6b0cbb9ed78af22caf4938fefabc0976d7ca",
-    "size": 27716010
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/958fb7b17659835b35021185bcdea57e48d3d8d8/launcher/windows/MacaroonLauncher-2.0.15-Setup.exe",
+    "sha256": "a31b691289f47539971f0b7f0ec4f8ee71ee58dcacaa257fcc5ea4e09c246533",
+    "size": 27716866
   },
   "launcher_update_linux": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/dc974ef01363a33c50327e3ea8dce34d4e455b3b/launcher/linux/MacaroonLauncher-2.0.14-linux-x64.tar.gz",
-    "sha256": "e6d6e32cb2b50cd8b21d2c44da73491b8f906e1db250d3824b075c71c61619bb",
-    "size": 26072152
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/958fb7b17659835b35021185bcdea57e48d3d8d8/launcher/linux/MacaroonLauncher-2.0.15-linux-x64.tar.gz",
+    "sha256": "5d62eebb8b44c99cf2eeb33df5b853f5067ab87e95282a2dc496a700eb23077d",
+    "size": 26072100
   },
   "launcher_update_macos": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/781472c0c3380b31d70bdd3a7cbe20b3ad90f92a/launcher/macos/MacaroonLauncher-2.0.14-macos.zip",
-    "sha256": "945d6ade1f83e4841e71e9ce7cd3f597d8aa8289454bb33371d5f858ccae3dfa",
-    "size": 43793137,
-    "version": "2.0.14"
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/958fb7b17659835b35021185bcdea57e48d3d8d8/launcher/macos/MacaroonLauncher-2.0.15-macos.zip",
+    "sha256": "eabe4cd3dcef2aa76e7c89d7c1ccad0453d9ff1700fb3da7e36cc82df9d6864c",
+    "size": 43796345,
+    "version": "2.0.15"
   },
   "launcher_notes": [
+    "macOS용 런처가 나왔어요. Apple 실리콘과 Intel Mac에서 모두 쓸 수 있어요.",
+    "맥에서는 macOS 기본 창 버튼으로 창을 닫고 줄일 수 있어요.",
+    "맥에서 런처를 응용 프로그램 폴더로 옮기지 않았으면 업데이트 전에 알려 줘요.",
     "런처 설치 폴더가 MacaroonLauncher로 옮겨져요. 바로가기와 작업 표시줄 고정도 함께 따라가요.",
     "게임 폴더 안의 런처 폴더 이름이 .macaroon으로 바뀌어요. 설치된 게임은 다음 실행 때 알아서 옮겨져요.",
-    "시작 메뉴 폴더 이름이 Macaroon Launcher로 바뀌어요.",
-    "왼쪽 게임 목록의 아이콘 모서리와 설치 진행 표시를 다듬었어요.",
     "게임을 실행하는 동안에도 다른 게임을 설치하고 업데이트할 수 있어요.",
     "커뮤니티 글쓰기에서 Ctrl+V로 이미지를 바로 붙여 넣을 수 있어요.",
-    "복사한 이미지를 붙여 넣을 때 형식 오류가 나던 문제를 고쳤어요.",
     "게임을 켜면 시작 버튼에 새 연출이 나와요.",
     "런처 아이콘을 새 Macaroon 로고로 바꿨어요."
   ]
