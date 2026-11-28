@@ -25,6 +25,12 @@
     "sha256": "e6d6e32cb2b50cd8b21d2c44da73491b8f906e1db250d3824b075c71c61619bb",
     "size": 26072152
   },
+  "launcher_update_macos": {
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/781472c0c3380b31d70bdd3a7cbe20b3ad90f92a/launcher/macos/MacaroonLauncher-2.0.14-macos.zip",
+    "sha256": "945d6ade1f83e4841e71e9ce7cd3f597d8aa8289454bb33371d5f858ccae3dfa",
+    "size": 43793137,
+    "version": "2.0.14"
+  },
   "launcher_notes": [
     "런처 설치 폴더가 MacaroonLauncher로 옮겨져요. 바로가기와 작업 표시줄 고정도 함께 따라가요.",
     "게임 폴더 안의 런처 폴더 이름이 .macaroon으로 바뀌어요. 설치된 게임은 다음 실행 때 알아서 옮겨져요.",
