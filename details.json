@@ -1,31 +1,36 @@
 {
   "schema_version": 1,
-  "launcher_version": "2.0.11",
+  "launcher_version": "2.0.12",
   "games": [
     {
       "id": "launcher-update",
       "name": "Launcher update",
-      "version": "2.0.11",
+      "version": "2.0.12",
       "type": "minecraft_java_edition",
       "whitelist": []
     }
   ],
   "launcher_update": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/ecdb10792e07e51088caba8f1211db953407dd01/launcher/windows/MacaroonLauncher-2.0.11-Setup.exe",
-    "sha256": "3659c6958faf65b2eff318d99ef00e8b87c2492b1f25b3ad53e22bdc0a3ebd38",
-    "size": 27704540
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/fea8f5175ebdb5acd91f768b5887597c37b65179/launcher/windows/MacaroonLauncher-2.0.12-Setup.exe",
+    "sha256": "62f806ba05bfe4f7709004e34a3f1b6d926f633fbbadcc5b186a335b3acf012d",
+    "size": 27713810
   },
   "launcher_update_v2": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/ecdb10792e07e51088caba8f1211db953407dd01/launcher/windows/MacaroonLauncher-2.0.11-Setup.exe",
-    "sha256": "3659c6958faf65b2eff318d99ef00e8b87c2492b1f25b3ad53e22bdc0a3ebd38",
-    "size": 27704540
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/fea8f5175ebdb5acd91f768b5887597c37b65179/launcher/windows/MacaroonLauncher-2.0.12-Setup.exe",
+    "sha256": "62f806ba05bfe4f7709004e34a3f1b6d926f633fbbadcc5b186a335b3acf012d",
+    "size": 27713810
   },
   "launcher_update_linux": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/ecdb10792e07e51088caba8f1211db953407dd01/launcher/linux/MacaroonLauncher-2.0.11-linux-x64.tar.gz",
-    "sha256": "25d9568da479804ff6fee9f82d2c75fa2dca743bac2a1d23db6c75c4d3ac17c8",
-    "size": 26058544
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/fea8f5175ebdb5acd91f768b5887597c37b65179/launcher/linux/MacaroonLauncher-2.0.12-linux-x64.tar.gz",
+    "sha256": "eeed5c32879bca9cc6dd54858d6469e3b7dd9fb88702bbb9b9485ac8187edde9",
+    "size": 26070040
   },
   "launcher_notes": [
+    "게임을 실행하는 동안에도 다른 게임을 설치하고 업데이트할 수 있어요.",
+    "커뮤니티 글쓰기에서 Ctrl+V로 이미지를 바로 붙여 넣을 수 있어요.",
+    "복사한 이미지를 붙여 넣을 때 형식 오류가 나던 문제를 고쳤어요.",
+    "게임을 켜면 시작 버튼에 새 연출이 나와요.",
+    "게임 중에는 시작 버튼에 플레이 시간이 보여요.",
     "게임 오류 안내 카드가 내용만큼만 커져요.",
     "런처 아이콘을 새 Macaroon 로고로 바꿨어요.",
     "업데이트한 뒤 작업 표시줄과 바로가기에도 새 아이콘이 바로 보여요."
