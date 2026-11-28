@@ -1,37 +1,38 @@
 {
   "schema_version": 1,
-  "launcher_version": "2.0.15",
+  "launcher_version": "2.0.16",
   "games": [
     {
       "id": "launcher-update",
       "name": "Launcher update",
-      "version": "2.0.15",
+      "version": "2.0.16",
       "type": "minecraft_java_edition",
       "whitelist": []
     }
   ],
   "launcher_update": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/958fb7b17659835b35021185bcdea57e48d3d8d8/launcher/windows/MacaroonLauncher-2.0.15-Setup.exe",
-    "sha256": "a31b691289f47539971f0b7f0ec4f8ee71ee58dcacaa257fcc5ea4e09c246533",
-    "size": 27716866
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/2e1ee26c6fd2e042084b8b60d55ca3cc97d991a6/launcher/windows/MacaroonLauncher-2.0.16-Setup.exe",
+    "sha256": "e06aa0abdc8998c1ac45e1dd5e7b9c56ad3caf1a815a9541a869829ea5bdfd36",
+    "size": 27717003
   },
   "launcher_update_v2": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/958fb7b17659835b35021185bcdea57e48d3d8d8/launcher/windows/MacaroonLauncher-2.0.15-Setup.exe",
-    "sha256": "a31b691289f47539971f0b7f0ec4f8ee71ee58dcacaa257fcc5ea4e09c246533",
-    "size": 27716866
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/2e1ee26c6fd2e042084b8b60d55ca3cc97d991a6/launcher/windows/MacaroonLauncher-2.0.16-Setup.exe",
+    "sha256": "e06aa0abdc8998c1ac45e1dd5e7b9c56ad3caf1a815a9541a869829ea5bdfd36",
+    "size": 27717003
   },
   "launcher_update_linux": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/958fb7b17659835b35021185bcdea57e48d3d8d8/launcher/linux/MacaroonLauncher-2.0.15-linux-x64.tar.gz",
-    "sha256": "5d62eebb8b44c99cf2eeb33df5b853f5067ab87e95282a2dc496a700eb23077d",
-    "size": 26072100
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/2e1ee26c6fd2e042084b8b60d55ca3cc97d991a6/launcher/linux/MacaroonLauncher-2.0.16-linux-x64.tar.gz",
+    "sha256": "0a35398ba050887a02356fc783110f316dc65ba15111c4f22fdb514ee29fcd8e",
+    "size": 26072243
   },
   "launcher_update_macos": {
-    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/958fb7b17659835b35021185bcdea57e48d3d8d8/launcher/macos/MacaroonLauncher-2.0.15-macos.zip",
-    "sha256": "eabe4cd3dcef2aa76e7c89d7c1ccad0453d9ff1700fb3da7e36cc82df9d6864c",
-    "size": 43796345,
-    "version": "2.0.15"
+    "url": "https://raw.githubusercontent.com/macaroon-mc/launcher-releases/2e1ee26c6fd2e042084b8b60d55ca3cc97d991a6/launcher/macos/MacaroonLauncher-2.0.16-macos.zip",
+    "sha256": "d9cac1efd8db37c72142f0219381f2e3c6784b820d5315e9896b7f2c927e405f",
+    "size": 43799011,
+    "version": "2.0.16"
   },
   "launcher_notes": [
+    "왼쪽 위 계정 버튼의 사진 모서리를 테두리와 맞췄어요.",
     "macOS용 런처가 나왔어요. Apple 실리콘과 Intel Mac에서 모두 쓸 수 있어요.",
     "맥에서는 macOS 기본 창 버튼으로 창을 닫고 줄일 수 있어요.",
     "맥에서 런처를 응용 프로그램 폴더로 옮기지 않았으면 업데이트 전에 알려 줘요.",
